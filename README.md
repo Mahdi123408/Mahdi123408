@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, i'm Mahdi Abasi</h1>
 <P align="center"> A passionate back-end developer 👨‍💻✨</P>
 
-- 👀 I’m currently working on Pyhton | Django
-- 🌱 I’m currently learning AI & Machine Learning  
-- 📫 How to reach me: abasimahdi243@gmail.com
-- 💬 Ask me about Python & Django
+- 👀 I’m currently working on **Pyhton | Django**
+- 🌱 I’m currently learning **AI & Machine Learning**
+- 📫 How to reach me: **abasimahdi243@gmail.com**
+- 💬 Ask me about **Python & Django**
 
 
 
