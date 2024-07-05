@@ -18,6 +18,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45" />
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mooudmohammady&show_icons=true&theme=dark&locale=en&layout=compact" alt="mooudmohammady" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahdi123408&show_icons=true&theme=dark&locale=en" alt="Mahdi123408" /></p>
 
 <p align="center">
