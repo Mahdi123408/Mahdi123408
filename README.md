@@ -19,6 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="45" height="45"/>     
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFmXNqIEwnkjXlbf4tIL1YJJXHBmfFnsBBVJcdXbjGswqQQc9n_adUpYFJNOl-OnhEMeg&usqp=CAU" width="45" height="45" />    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahdi123408&show_icons=true&theme=dark&locale=en&layout=compact" alt="Mahdi123408" /></p>
